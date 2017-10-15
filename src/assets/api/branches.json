@@ -1,0 +1,38 @@
+[
+    {
+        "name":"ramiLevi",
+        "branches": [
+            {"name": "branch1","longitude" : -98.5795,"latitude" : 39.8282, "distance": 0},
+            {"name": "branch2","longitude" : -98.5795,"latitude" : 39.8282, "distance": 0},
+            {"name": "branch3","longitude" : -98.5795,"latitude" : 39.8282, "distance": 0},
+            {"name": "branch4","longitude" : -98.5795,"latitude" : 39.8282, "distance": 0}
+        ]
+    },
+    {
+        "name":"shufersal",
+        "branches": [
+            {"name": "branch1","longitude" : -98.5795,"latitude" : 39.8282, "distance": 0},
+            {"name": "branch2","longitude" : -98.5795,"latitude" : 39.8282, "distance": 0},
+            {"name": "branch3","longitude" : -98.5795,"latitude" : 39.8282, "distance": 0},
+            {"name": "branch4","longitude" : -98.5795,"latitude" : 39.8282, "distance": 0}
+        ]
+    },
+    {
+        "name":"mega",
+        "branches": [
+            {"name": "branch1","longitude" : -98.5795,"latitude" : 39.8282, "distance": 0},
+            {"name": "branch2","longitude" : -98.5795,"latitude" : 39.8282, "distance": 0},
+            {"name": "branch3","longitude" : -98.5795,"latitude" : 39.8282, "distance": 0},
+            {"name": "branch4","longitude" : -98.5795,"latitude" : 39.8282, "distance": 0}
+        ]
+    },
+    {
+        "name":"take4free",
+        "branches": [
+            {"name": "branch1","longitude" : -98.5795,"latitude" : 39.8282},
+            {"name": "branch2","longitude" : -98.5795,"latitude" : 39.8282},
+            {"name": "branch3","longitude" : -98.5795,"latitude" : 39.8282},
+            {"name": "branch4","longitude" : -98.5795,"latitude" : 39.8282}
+        ]
+    }
+]

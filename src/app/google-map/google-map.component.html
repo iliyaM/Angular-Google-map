@@ -1,0 +1,7 @@
+<h1>Angular 2 + Google Map</h1>
+<input placeholder="search for location" autocorrect="off" autocapitalize="off" spellcheck="off" type="text" #search [formControl]="searchControl">
+<agm-map class="map" [latitude]="latitude" [longitude]="longitude" [scrollwheel]="false" [zoom]="zoom">
+  <agm-marker [latitude]="latitude" [longitude]="longitude"></agm-marker>
+</agm-map>
+
+<button (click)="calculateDistance()">Caclculate Distance</button>
